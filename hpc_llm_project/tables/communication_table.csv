@@ -1,0 +1,4 @@
+file,world_size,runtime_sec,compute_sec,non_compute_sync_sec,non_compute_percent,final_loss
+results/baseline_big.csv,1,9.3948,2.0574,7.337400000000001,78.10065142419211,8.529417
+results/ddp_big.csv,3,3.4188,0.6840999999999999,2.7347,79.99005499005499,8.525008
+results/ddp_2node.csv,6,7.0924,4.923,2.1694,30.58767131013479,8.529491

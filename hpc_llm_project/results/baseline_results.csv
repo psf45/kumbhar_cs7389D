@@ -1,0 +1,4 @@
+hostname,device,gpu_name,distributed,world_size,epochs,batch_size,seq_len,num_samples,runtime_sec,forward_sec,backward_sec,optimizer_step_sec,data_to_device_sec,final_loss
+Rudras-MacBook-Air.local,cpu,cpu,False,1,2,16,128,2000,47.929,23.5779,21.4408,2.0781,0.0012,8.542614
+Mac-5393.lan,cpu,cpu,False,1,2,16,128,2000,53.2151,27.4497,23.0853,1.9235,0.0013,8.534418
+c301-004.ls6.tacc.utexas.edu,cuda,NVIDIA A100-PCIE-40GB,False,1,1,16,128,2000,1.2876,0.4154,0.5965,0.1744,0.0044,8.541772

@@ -1,0 +1,2 @@
+hostname,device,gpu_name,distributed,world_size,epochs,batch_size,seq_len,num_samples,runtime_sec,forward_sec,backward_sec,optimizer_step_sec,data_to_device_sec,final_loss
+c301-004.ls6.tacc.utexas.edu,cuda,NVIDIA A100-PCIE-40GB,True,3,1,64,256,36000,10.2037,0.5927,1.5316,0.2593,0.0063,8.526827
